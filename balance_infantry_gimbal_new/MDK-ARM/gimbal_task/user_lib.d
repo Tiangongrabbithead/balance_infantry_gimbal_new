@@ -1,0 +1,11 @@
+gimbal_task\user_lib.o: ..\components\algorithm\user_lib.c
+gimbal_task\user_lib.o: ..\components\algorithm\user_lib.h
+gimbal_task\user_lib.o: ../application/struct_typedef.h
+gimbal_task\user_lib.o: ../components/algorithm/Include/arm_math.h
+gimbal_task\user_lib.o: ../Drivers/CMSIS/Include/core_cm4.h
+gimbal_task\user_lib.o: D:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+gimbal_task\user_lib.o: ../Drivers/CMSIS/Include/cmsis_version.h
+gimbal_task\user_lib.o: ../Drivers/CMSIS/Include/cmsis_compiler.h
+gimbal_task\user_lib.o: ../Drivers/CMSIS/Include/cmsis_armcc.h
+gimbal_task\user_lib.o: D:\Keil_v5\ARM\ARMCC\Bin\..\include\string.h
+gimbal_task\user_lib.o: D:\Keil_v5\ARM\ARMCC\Bin\..\include\math.h
